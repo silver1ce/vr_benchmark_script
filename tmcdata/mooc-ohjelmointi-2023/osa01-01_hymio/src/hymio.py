@@ -1,2 +1,0 @@
-# Kirjoita ratkaisu tähän
-print(":-)")
